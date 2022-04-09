@@ -1,3 +1,3 @@
-module github.com/alexahdp/monkeylang
+module monkeylang
 
 go 1.17
