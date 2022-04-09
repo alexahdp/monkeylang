@@ -1,9 +1,9 @@
 package lexer
 
 import (
-  "testing"
+	"testing"
 
-  "github.com/alexahdp/monkeylang/token"
+	"monkeylang/src/token"
 )
 
 func TestNextToken(t *testing.T) {
